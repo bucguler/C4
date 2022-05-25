@@ -1625,15 +1625,6 @@
   }, 
   { "tag" : "Failover", 
     "opacity" : 25 
-  }, 
-  { "tag" : "Database",
-    "shape: "Cylinder"
-  },
-  { "tag" : "Infrastructure Node", 
-    "shape" : "roundedbox"
-  },
-  { tag : "Deployment Node" 
-    "shape" : "roundedbox"
   }
 ]
 }
