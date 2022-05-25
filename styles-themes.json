@@ -1,0 +1,40 @@
+{
+    "name" : "BetTech",
+    "description" : "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure icon set (https://docs.microsoft.com/en-us/azure/architecture/icons/).",
+    "elements" : [ { "tag" : "Person", 
+    "color" : "#ffffff", 
+    "fontSize" : 22, 
+    "shape" : "Person" 
+  }, 
+  { "tag" : "Customer", 
+    "background" : "#08427b" 
+  }, 
+  { "tag" : "Employee", 
+    "background" : "#999999" 
+  }, 
+  { "tag" : "Software System", 
+    "background" : "#1168bd", 
+    "color" : "#ffffff" 
+  }, 
+  { "tag" : "Existing System", 
+    "background" : "#999999", 
+    "color" : "#ffffff" 
+  }, 
+  { "tag" : "Container", 
+    "background" : "#438dd5", 
+    "color" : "#ffffff" 
+  }, 
+  { "tag" : "Web Browser", 
+    "shape" : "WebBrowser" 
+  }, 
+  { "tag" : "Mobile App", 
+    "shape" : "MobileDeviceLandscape" 
+  }, 
+  { "tag" : "Database", 
+    "shape" : "Cylinder" 
+  },
+  { "tag" : "Failover", 
+    "opacity" : 25 
+  }
+]
+}
