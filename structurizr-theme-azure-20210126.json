@@ -1621,8 +1621,19 @@
   }, 
   { "tag" : "Component", 
     "background" : "#85bbf0", 
-    "color" : "#000000" }, 
+    "color" : "#000000" 
+  }, 
   { "tag" : "Failover", 
-    "opacity" : 25 } 
+    "opacity" : 25 
+  }, 
+  { "tag" : "Database",
+    "shape: "Cylinder"
+  },
+  { "tag" : "Infrastructure Node", 
+    "shape" : "roundedbox"
+  },
+  { tag : "Deployment Node" 
+    "shape" : "roundedbox"
+  }
 ]
 }
