@@ -22,10 +22,6 @@
     "color" : "#ffffff" 
   }, 
   { "tag" : "Container", 
-    "background" : "#438dd5", 
-    "color" : "#ffffff" 
-  }, 
-  { "tag" : "ContainerWhite", 
     "background" : "#ffffff", 
     "color" : "#ffffff" 
   }, 
