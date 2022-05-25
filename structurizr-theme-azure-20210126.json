@@ -853,8 +853,8 @@
     "icon" : "https://static.structurizr.com/themes/microsoft-azure-2021.01.26/10851-icon-service-Workbooks.png"
   }, {
     "tag" : "Microsoft Azure - SQL Database",
-    "stroke" : "#e8e8e8",
-    "color" : "#e8e8e8",
+    "stroke" : "#0064a5",
+    "color" : "#0064a5",
     "icon" : "https://static.structurizr.com/themes/microsoft-azure-2021.01.26/10130-icon-service-SQL-Database.png"
   }, {
     "tag" : "Microsoft Azure - Cloud Services (Classic)",
