@@ -1,7 +1,8 @@
 {
     "name" : "BetTech",
     "description" : "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure icon set (https://docs.microsoft.com/en-us/azure/architecture/icons/).",
-    "elements" : [ { "tag" : "Person", 
+    "elements" : [ 
+  { "tag" : "Person", 
     "color" : "#ffffff", 
     "fontSize" : 22, 
     "shape" : "Person" 
