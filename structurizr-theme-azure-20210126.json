@@ -1618,11 +1618,7 @@
   }, 
   { "tag" : "Database", 
     "shape" : "Cylinder" 
-  }, 
-  { "tag" : "Component", 
-    "background" : "#85bbf0", 
-    "color" : "#000000" 
-  }, 
+  },
   { "tag" : "Failover", 
     "opacity" : 25 
   }
