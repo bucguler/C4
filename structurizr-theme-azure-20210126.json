@@ -1586,6 +1586,11 @@
     "stroke" : "#0078d4",
     "color" : "#0078d4",
     "icon" : "https://static.structurizr.com/themes/microsoft-azure-2021.01.26/10233-icon-service-Conditional-Access.png"
+  }, {
+    "tag" : "Microsoft Azure - SignalR",
+    "stroke" : "#0078d4",
+    "color" : "#0078d4",
+    "icon" : "https://raw.githubusercontent.com/bucguler/C4/main/signalR.png"
   }
 ]
 }
