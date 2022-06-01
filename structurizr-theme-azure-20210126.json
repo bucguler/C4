@@ -458,8 +458,8 @@
     "icon" : "https://static.structurizr.com/themes/microsoft-azure-2021.01.26/02189-icon-service-Azure-Workbooks.png"
   }, {
     "tag" : "Microsoft Azure - Location",
-    "stroke" : "#9cebff",
-    "color" : "#9cebff",
+    "stroke" : "#203e5f",
+    "color" : "#203e5f",
     "icon" : "https://static.structurizr.com/themes/microsoft-azure-2021.01.26/10818-icon-service-Location.png"
   }, {
     "tag" : "Microsoft Azure - Azure Media Service",
